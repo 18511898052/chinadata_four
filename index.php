@@ -5,3 +5,6 @@ use Test\IndexController;
 
 $auth = new IndexController();
 $auth->test();
+$auth->test();
+$auth->test();
+$auth->test();
