@@ -6,5 +6,6 @@ class IndexController{
 		echo'test ones hook mymy';    
 		echo'test ones hook mymy';    
 		echo'test ones hook mymy';    
+		echo'test ones hook mymy';    
 	}
 }
